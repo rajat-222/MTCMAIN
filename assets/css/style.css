@@ -543,8 +543,7 @@ background: green;
 
     font-family: "Product Sans", sans-serif;
     font-size: 56px;
-    font
-    -weight: 600;
+    font-weight: 600;
 
   /*  background: linear-gradient(to right, red, green, blue, yellow);
     -webkit-text-fill-color: transparent;
@@ -2590,3 +2589,6 @@ Past Events about
     
 }
 
+#Cyberevent{
+    text-align: center;
+}
